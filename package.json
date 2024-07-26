@@ -1,12 +1,12 @@
 {
-"name": "supun",
+"name": "lakshan",
 "version": "2.1.2",
-"description": "supun has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
+"description": "lakshan has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
 "main": "start.js",
 "scripts": {
-"start": "pm2 start start.js --deep-monitoring --attach --name supun",
-"stop": "pm2 stop supun",
-"restart": "pm2 restart supun"
+"start": "pm2 start start.js --deep-monitoring --attach --name lakshan ",
+"stop": "pm2 stop lakshan",
+"restart": "pm2 restart lakshan"
 },
 "dependencies": {
 "@whiskeysockets/baileys": "git+https://github.com/prabathLK/Baileys-6.0.0.git",
